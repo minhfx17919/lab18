@@ -1,0 +1,10 @@
+.carousel-inner {
+  max-height: 500px;
+}
+.carousel-caption {
+  margin-bottom: 100px;
+  text-align: left;
+}
+.navbar-form {
+  margin-left: 28%;
+}
